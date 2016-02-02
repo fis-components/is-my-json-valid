@@ -1,7 +1,7 @@
 {
     "name": "is-my-json-valid",
     "description": "A JSONSchema validator that uses code generation to be extremely fast",
-    "repos": "https://github.com/mafintosh/is-my-json-valid",
+    "repos": "https://github.com/mafintosh/is-my-json-valid.git",
     "main": "index.js",
     "tag": "master",
     "reposType": "npm",
@@ -11,5 +11,5 @@
         "jsonpointer": "^1.1.0",
         "xtend": "^4.0.0"
     },
-    "version": "2.12.1"
+    "version": "2.12.2"
 }
